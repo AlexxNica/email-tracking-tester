@@ -1,8 +1,6 @@
 # Email Tracking Tester
 See how your email client protects your privacy (or not).
 
-**Try it here: https://emailtracking.openwpm.com/**
-
 ## Setup
 Requires Python. To install dependencies, use pip:
 ```
